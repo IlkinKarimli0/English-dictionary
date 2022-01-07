@@ -1,4 +1,4 @@
-"""import json
+import json
 from difflib import get_close_matches
 import time
 
@@ -35,7 +35,7 @@ def main():
         print(output)
 
 if __name__ == "__main__":
-    main()"""
+    main()
 
 
 
